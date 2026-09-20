@@ -54,3 +54,4 @@ Mahasiswa mampu:
 - Cita-cita
 - Rencana mencapai cita-cita
 
+![alt text](<Screenshot 2026-09-20 140516.png>)
