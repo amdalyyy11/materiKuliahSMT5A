@@ -303,6 +303,8 @@ Jalankan aplikasi dan pastikan semua fitur bekerja:
 | 10 | Tekan Download CV | Efek visual berubah + Alert |
 | 11 | Tap tombol sosmed | Alert URL muncul |
 
+![Pemograman Mobile_Pertemuan-3_ptmn2_iPhone-14-PRO-localhost-5n-ffohmfplyom.webm](https://github.com/user-attachments/assets/2e38c296-9ddf-49c8-96e4-00f1118c9426)
+
 ---
 
 ## 🧠 Konsep Styling yang Perlu Dipahami
