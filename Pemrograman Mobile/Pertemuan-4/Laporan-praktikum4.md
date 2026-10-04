@@ -22,9 +22,7 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 6. npx expo start --web
 7. Konfirmasi akun
 
-
-![Uploading langkah2ptmn4.gif…]()
-
+<img width="382" height="768" alt="langkah2ptmn4" src="https://github.com/user-attachments/assets/db5a124c-d0f6-4202-9996-c245f3e61a4f" />
 
 ### Langkah 3: Bottom Tab Navigation ###
 1. Instalasi Pustaka Bottom Tabs (npm install @react-navigation/bottom-tabs)
@@ -40,7 +38,7 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 2. Konfigurasi Drawer di App.js (Sesuaikan isi file App.js dengan yang ada di modul bagian Drawer Navigation)
 3. Konfirmasi bukti
 
-![Uploading langkah4ptmn4.gif…]()
+<img width="382" height="766" alt="langkah4ptmn4" src="https://github.com/user-attachments/assets/0ef02858-2c7c-4ec3-8557-97b7fb90c00f" />
 
 
 ### TUGAS PRAKTIKUM (Diskusi Kelompok) ###
