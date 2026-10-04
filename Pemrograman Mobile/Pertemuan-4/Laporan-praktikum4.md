@@ -23,6 +23,7 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 7. Konfirmasi akun
 
 
+![Uploading langkah2ptmn4.gif…]()
 
 
 ### Langkah 3: Bottom Tab Navigation ###
@@ -31,14 +32,16 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 3. Sesuaikan isi file App.js dengan yang ada di modul bagian Bottom Tab Navigation
 4. Konfirmasi bukti
 
-![alt text](BottomTabNavigation.gif)
+<img width="380" height="774" alt="langkah3ptmn4" src="https://github.com/user-attachments/assets/650618d7-1dea-402d-a8c0-1e2ed8407ac7" />
+
 
 ### Langkah 4: Drawer Navigation ###
 1. Instalasi Pustaka Drawer (npm install @react-navigation/drawer)
 2. Konfigurasi Drawer di App.js (Sesuaikan isi file App.js dengan yang ada di modul bagian Drawer Navigation)
 3. Konfirmasi bukti
 
-![alt text](DrawerNavigation.gif)
+![Uploading langkah4ptmn4.gif…]()
+
 
 ### TUGAS PRAKTIKUM (Diskusi Kelompok) ###
 1. Diskusi bersama teman kelompok Anda untuk merancang alur navigasi aplikasi Project Base Test (UTS dan UAS) yang menggabungkan **Stack Navigation** dan **Tab Navigation** serta **Drawer Navigation**
